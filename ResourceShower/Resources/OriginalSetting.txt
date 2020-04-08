@@ -1,0 +1,13 @@
+{
+  "position": {
+    "x": 100,
+    "y": 100
+  },
+  "size": {
+    "width": 206,
+    "height": 105
+  },
+  "gap": 3,
+  "topMost": false,
+  "noneBorder": true
+}
