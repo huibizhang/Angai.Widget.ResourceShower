@@ -1,6 +1,4 @@
 # Resource Shower
-
-### Real Project Name
 `Angai.Widget.ResourceShower`
 
 ---
