@@ -1,4 +1,4 @@
-# Resource Shower 456
+# Resource Shower
 `Angai.Widget.ResourceShower`
 
 ---
